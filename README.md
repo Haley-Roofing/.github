@@ -1,7 +1,4 @@
-# .github
-
 # Haley Roofing
-
 Haley Roofing is multi-generational roofing company based out of Victoria, BC Canada. Built on honest, reliable work with family values at its core, Haley Roofing has proven itself to be a reliable source of Roofing materials and Maintenance for almost 40 years.
 
 ## What you can find here
